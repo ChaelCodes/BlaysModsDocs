@@ -1,0 +1,9 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Wood_Chippings",
+  "related": [
+    "any:Wood",
+    "any:Hammer",
+    "any:Barrel"
+  ]
+}

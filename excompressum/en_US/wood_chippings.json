@@ -1,0 +1,10 @@
+{
+  "parent": "excompressum/shared/wood_chippings.json",
+  "title": "Wood Chippings",
+  "description": "**Wood Chippings** are a drop from hammering [Wood](any:Wood) with a [Hammer](any:Hammer). One log of wood will drop a random amount of 1-4 Wood Chippings.",
+  "info": {
+    "Usage": {
+      "content": "Wood Chippings can be put into an Ex Nihilo [Barrel](any:Barrel) to be composted into dirt."
+    }
+  }
+}

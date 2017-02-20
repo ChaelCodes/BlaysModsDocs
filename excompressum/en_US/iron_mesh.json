@@ -1,0 +1,19 @@
+{
+  "parent": "excompressum/shared/iron_mesh.json",
+  "title": "Iron Mesh",
+  "description": "The **Iron Mesh** can be used in a [Heavy Sieve](excompressum:Heavy_Sieve) or an [Auto Sieve](excompressum:Auto_Sieve).",
+  "info": {
+    "Crafting": {
+      "content": "The Iron Mesh is crafted out of four [Iron Bars](minecraft:Iron_Bars) put in a square."
+    },
+    "Usage": {
+      "content": "Right-clicking the [Heavy Sieve](excompressum:Heavy_Sieve) with a mesh will insert it. It can be retrieved by shift-right-clicking the block with an empty hand. The [Auto Sieve](excompressum:Auto_Sieve) has a slot for the mesh right beneath the input slot. Meshes can also be inserted through automated means."
+    },
+    "Ex Nihilo Omnia": {
+      "content": "In Ex Nihilo Omnia, the Iron Mesh is able to sift through 256 blocks before it breaks. It can also be used inside Omnia's native Sieve blocks."
+    },
+    "Ex Nihilo Adscensio": {
+      "content": "This item is disabled for Ex Nihilo Adscensio, as the mod adds an Iron Stiffened Mesh itself."
+    }
+  }
+}
