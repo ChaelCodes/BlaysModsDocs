@@ -5,8 +5,8 @@
     {
       "type": "crafting",
       "matrix": [
-        "any:Wood", "null", "any:Wood",
-        "any:Wood", "null", "any:Wood",
+        "any:Wood", null, "any:Wood",
+        "any:Wood", null, "any:Wood",
         "any:Wood", "any:Wood_Slab", "any:Wood"
       ],
       "result": "any:Wooden_Crucible"

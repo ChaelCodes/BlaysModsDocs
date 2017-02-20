@@ -1,0 +1,28 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Auto_Compressed_Hammer",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Iron_Ingot", "minecraft:Iron_Pressure_Plate", "minecraft:Iron_Ingot",
+        "minecraft:Iron_Ingot", "excompressum:Compressed_Diamond_Hammer", "minecraft:Iron_Ingot",
+        "minecraft:Iron_Ingot", "minecraft:Iron_Pressure_Plate", "minecraft:Iron_Ingot"
+      ],
+      "result": "excompressum:Auto_Compressed_Hammer"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "immersiveengineering:Steel_Ingot", "minecraft:Iron_Pressure_Plate", "immersiveengineering:Steel_Ingot",
+        "immersiveengineering:Steel_Ingot", "excompressum:Compressed_Diamond_Hammer", "immersiveengineering:Steel_Ingot",
+        "immersiveengineering:Steel_Ingot", "minecraft:Iron_Pressure_Plate", "immersiveengineering:Steel_Ingot"
+      ],
+      "result": "excompressum:Auto_Compressed_Hammer"
+    }
+  ],
+  "related": [
+    "any:Hammerable_Compressed_Block",
+    "excompressum:Compressed_Diamond_Hammer"
+  ]
+}

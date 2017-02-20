@@ -1,0 +1,29 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Auto_Heavy_Sieve",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Block_of_Iron", "minecraft:Glass_Pane", "minecraft:Block_of_Iron",
+        "minecraft:Glass_Pane", "any:Heavy_Sieve", "minecraft:Glass_Pane",
+        "minecraft:Iron_Ingot", "minecraft:Glass_Pane", "minecraft:Iron_Ingot"
+      ],
+      "result": "excompressum:Auto_Heavy_Sieve"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "immersiveengineering:Block_of_Steel", "minecraft:Glass_Pane", "immersiveengineering:Block_of_Steel",
+        "minecraft:Glass_Pane", "any:Heavy_Sieve", "minecraft:Glass_Pane",
+        "immersiveengineering:Steel_Ingot", "minecraft:Glass_Pane", "immersiveengineering:Steel_Ingot"
+      ],
+      "result": "excompressum:Auto_Heavy_Sieve"
+    }
+  ],
+  "related": [
+    "any:Mesh",
+    "any:Heavy_Sieve",
+    "any:Siftable_Compressed_Block"
+  ]
+}

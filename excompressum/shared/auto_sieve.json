@@ -1,0 +1,20 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Auto_Sieve",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Block_of_Iron", "minecraft:Glass_Pane", "minecraft:Block_of_Iron",
+        "minecraft:Glass_Pane", "any:Sieve", "minecraft:Glass_Pane",
+        "minecraft:Iron_Ingot", "minecraft:Glass_Pane", "minecraft:Iron_Ingot"
+      ],
+      "result": "excompressum:Auto_Sieve"
+    }
+  ],
+  "related": [
+    "any:Mesh",
+    "any:Sieve",
+    "any:Siftable_Block"
+  ]
+}

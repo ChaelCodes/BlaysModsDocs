@@ -1,0 +1,21 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Ore_Smasher",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        null, "minecraft:Crafting_Table", "minecraft:Diamond",
+        null, "minecraft:Stick", "minecraft:Crafting_Table",
+        "minecraft:Stick", null, null
+      ],
+      "result": "excompressum:Ore_Smasher"
+    }
+  ],
+  "related": [
+    "any:Ore_Gravel",
+    "any:Broken_Ore",
+    "any:Ore_Sand",
+    "any:Crushed_Ore"
+  ]
+}

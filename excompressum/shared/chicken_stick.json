@@ -1,0 +1,10 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Chicken_Stick",
+  "related": [
+    "minecraft:Spawn_Chicken",
+    "minecraft:Stick",
+    "minecraft:Diamond_Sword",
+    "minecraft:Potion_of_Healing"
+  ]
+}

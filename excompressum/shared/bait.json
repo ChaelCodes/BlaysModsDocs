@@ -1,0 +1,78 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "any:Bait",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Bone", "minecraft:Raw_Beef", null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Wolf_Bait"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Gunpowder", "minecraft:Raw_Fish", null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Ocelot_Bait"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Wheat", "minecraft:Wheat", null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Cow_Bait"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Carrot", "minecraft:Carrot", null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Pig_Bait"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Seeds", "minecraft:Seeds", null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Chicken_Bait"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Wheat", "any:Sheep_Bait_Seeds", null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Sheep_Bait"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Raw_Fish", "minecraft:Raw_Fish", null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Squid_Bait"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Carrot", "minecraft:Melon_Seeds", null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Rabbit_Bait"
+    }
+  ]
+}

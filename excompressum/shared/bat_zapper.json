@@ -1,0 +1,15 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Bat_Zapper",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        null, "minecraft:Redstone", "minecraft:Glowstone_Dust",
+        null, "minecraft:Stick", "minecraft:Redstone",
+        "minecraft:Stick", null, null
+      ],
+      "result": "excompressum:Bat_Zapper"
+    }
+  ]
+}

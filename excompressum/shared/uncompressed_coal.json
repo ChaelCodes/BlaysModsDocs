@@ -1,0 +1,18 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Uncompressed_Coal",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        "Coal", null, null,
+        null, null, null,
+        null, null, null
+      ],
+      "result": "excompressum:Uncompressed_Coal"
+    }
+  ],
+  "related": [
+    "minecraft:Furnace"
+  ]
+}

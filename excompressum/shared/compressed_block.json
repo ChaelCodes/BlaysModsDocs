@@ -1,0 +1,93 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "any:Compressed_Block",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Cobblestone", "minecraft:Cobblestone", "minecraft:Cobblestone",
+        "minecraft:Cobblestone", "minecraft:Cobblestone", "minecraft:Cobblestone",
+        "minecraft:Cobblestone", "minecraft:Cobblestone", "minecraft:Cobblestone"
+      ],
+      "result": "excompressum:Compressed_Cobblestone"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Cobblestone", "minecraft:Cobblestone", "minecraft:Cobblestone",
+        "minecraft:Cobblestone", "minecraft:Cobblestone", "minecraft:Cobblestone",
+        "minecraft:Cobblestone", "minecraft:Cobblestone", "minecraft:Cobblestone"
+      ],
+      "result": "excompressum:Compressed_Cobblestone"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Gravel", "minecraft:Gravel", "minecraft:Gravel",
+        "minecraft:Gravel", "minecraft:Gravel", "minecraft:Gravel",
+        "minecraft:Gravel", "minecraft:Gravel", "minecraft:Gravel"
+      ],
+      "result": "excompressum:Compressed_Gravel"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Sand", "minecraft:Sand", "minecraft:Sand",
+        "minecraft:Sand", "minecraft:Sand", "minecraft:Sand",
+        "minecraft:Sand", "minecraft:Sand", "minecraft:Sand"
+      ],
+      "result": "excompressum:Compressed_Sand"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Dirt", "minecraft:Dirt", "minecraft:Dirt",
+        "minecraft:Dirt", "minecraft:Dirt", "minecraft:Dirt",
+        "minecraft:Dirt", "minecraft:Dirt", "minecraft:Dirt"
+      ],
+      "result": "excompressum:Compressed_Dirt"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Soul_Sand", "minecraft:Soul_Sand", "minecraft:Soul_Sand",
+        "minecraft:Soul_Sand", "minecraft:Soul_Sand", "minecraft:Soul_Sand",
+        "minecraft:Soul_Sand", "minecraft:Soul_Sand", "minecraft:Soul_Sand"
+      ],
+      "result": "excompressum:Compressed_Soul_Sand"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "exnihiloomnia:Dust", "exnihiloomnia:Dust", "exnihiloomnia:Dust",
+        "exnihiloomnia:Dust", "exnihiloomnia:Dust", "exnihiloomnia:Dust",
+        "exnihiloomnia:Dust", "exnihiloomnia:Dust", "exnihiloomnia:Dust"
+      ],
+      "result": "excompressum:Compressed_Dust"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "exnihiloomnia:Nether_Gravel", "exnihiloomnia:Nether_Gravel", "exnihiloomnia:Nether_Gravel",
+        "exnihiloomnia:Nether_Gravel", "exnihiloomnia:Nether_Gravel", "exnihiloomnia:Nether_Gravel",
+        "exnihiloomnia:Nether_Gravel", "exnihiloomnia:Nether_Gravel", "exnihiloomnia:Nether_Gravel"
+      ],
+      "result": "excompressum:Compressed_Nether_Gravel"
+    },
+    {
+      "type": "crafting",
+      "matrix": [
+        "exnihiloomnia:Ender_Gravel", "exnihiloomnia:Ender_Gravel", "exnihiloomnia:Ender_Gravel",
+        "exnihiloomnia:Ender_Gravel", "exnihiloomnia:Ender_Gravel", "exnihiloomnia:Ender_Gravel",
+        "exnihiloomnia:Ender_Gravel", "exnihiloomnia:Ender_Gravel", "exnihiloomnia:Ender_Gravel"
+      ],
+      "result": "excompressum:Compressed_Ender_Gravel"
+    }
+  ],
+  "related": [
+    "any:Heavy_Sieve",
+    "excompressum:Auto_Heavy_Sieve",
+    "any:Compressed_Hammer",
+    "excompressum:Auto_Compressed_Hammer"
+  ]
+}

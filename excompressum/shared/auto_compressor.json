@@ -1,0 +1,18 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Auto_Compressor",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Crafting_Table", "minecraft:Iron_Ingot", "minecraft:Crafting_Table",
+        "minecraft:Iron_Ingot", "minecraft:Block_of_Iron", "minecraft:Iron_Ingot",
+        "minecraft:Crafting_Table", "minecraft:Iron_Ingot", "minecraft:Crafting_Table"
+      ],
+      "result": "excompressum:Auto_Compressor"
+    }
+  ],
+  "related": [
+    "any:Siftable_Block"
+  ]
+}
