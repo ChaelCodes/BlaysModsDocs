@@ -1,5 +1,7 @@
 {
   "parent": "excompressum/excompressum.json",
+  "title": "$excompressum.auto_compressed_hammer",
+  "description": "$excompressum.auto_compressed_hammer.description",
   "icon": "excompressum:Auto_Compressed_Hammer",
   "recipe": [
     {
@@ -21,6 +23,40 @@
       "result": "excompressum:Auto_Compressed_Hammer"
     }
   ],
+  "info": {
+    "$general.crafting": {
+      "content": "$excompressum.auto_compressed_hammer.crafting"
+    },
+    "$general.interface": {
+      "type": "imagemap",
+      "source": "excompressum/auto_compressed_hammer_gui.png",
+      "areas": [
+        {
+            "tooltip": "$general.input_slot"
+            "bounds": [16, 70, 32, 32]
+        },
+        {
+            "tooltip": "$general.upgrade_slots"
+            "bounds": [16, 124, 80, 32]
+        },
+        {
+            "tooltip": "$general.output_slots"
+            "bounds": [114, 16, 176, 140]
+        },
+        {
+            "tooltip": "$general.energy"
+            "bounds": [302, 14, 36, 143]
+        },
+        {
+            "tooltip": "$general.player_inventory"
+            "bounds": [16, 168, 320, 148]
+        }
+      ]
+    },
+    "$general.upgrades": {
+      "content": "$excompressum.auto_compressed_hammer.upgrades"
+    }
+  },
   "related": [
     "any:Hammerable_Compressed_Block",
     "excompressum:Compressed_Diamond_Hammer"

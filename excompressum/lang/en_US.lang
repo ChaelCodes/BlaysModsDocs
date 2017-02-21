@@ -1,0 +1,32 @@
+general.crafting=Crafting
+general.interface=Interface
+general.input_slot=Input Slot
+general.upgrade_slots=Upgrade Slots
+general.output_slots=Output Slots
+general.energy=Energy
+general.player_inventory=Player Inventory
+general.upgrades=Upgrades
+
+# Mod title should probably not be translated.
+excompressum.title=Ex Compressum
+
+excompressum.auto_compressed_hammer=Auto Compressed Hammer
+excompressum.auto_compressed_hammer.description=The **Auto Compressed Hammer** will automatically hammer [Compressed Blocks](excompressum:Compressed_Dust) in its inventory as long as its provided with some energy.\nIt used to accept RF, but now it only accepts [Fuwafuwagy](https://github.com/MinecraftForge/MinecraftForge/blob/1.11.x/EnergySystems.md).
+excompressum.auto_compressed_hammer.crafting_content=The Auto Compressed Hammer is crafted with a [Compressed Diamond Hammer](excompressum:Compressed_Diamond_Hammer) in the center, iron ingots left and right and Iron Pressure Plates at the top and bottom.\n\nIf a mod adding steel is loaded, it will require steel ingots instead of iron.
+excompressum.auto_compressed_hammer.upgrades_content=To speed up an Auto Compressed Hammer, one can insert additional Compressed Diamond Hammers into the two upgrade slots available. These hammers can also be enchanted with either Unbreaking, Fortune or Efficiency.
+
+excompressum.iron_mesh=Iron Mesh
+excompressum.iron_mesh.description=The **Iron Mesh** can be used in a [Heavy Sieve](excompressum:Heavy_Sieve) or an [Auto Sieve](excompressum:Auto_Sieve).
+excompressum.iron_mesh.crafting=The Iron Mesh is crafted out of four [Iron Bars](minecraft:Iron_Bars) put in a square.
+excompressum.iron_mesh.usage=Right-clicking the [Heavy Sieve](excompressum:Heavy_Sieve) with a mesh will insert it. It can be retrieved by shift-right-clicking the block with an empty hand. The [Auto Sieve](excompressum:Auto_Sieve) has a slot for the mesh right beneath the input slot. Meshes can also be inserted through automated means.
+excompressum.iron_mesh.exnihiloomnia=In Ex Nihilo Omnia, the Iron Mesh is able to sift through 256 blocks before it breaks. It can also be used inside Omnia's native Sieve blocks.
+excompressum.iron_mesh.exnihiloadscensio=This item is disabled for Ex Nihilo Adscensio, as the mod adds an Iron Stiffened Mesh itself.
+
+excompressum.wood_chippings=Wood Chippings
+excompressum.wood_chippings.description=**Wood Chippings** are a drop from hammering [Wood](any:Wood) with a [Hammer](any:Hammer). One log of wood will drop a random amount of 1-4 Wood Chippings.
+excompressum.wood_chippings.usage=Wood Chippings can be put into an Ex Nihilo [Barrel](any:Barrel) to be composted into dirt.
+
+excompressum.wooden_crucible=Wooden Crucible
+excompressum.wooden_crucible.description=The **Wooden Crucible** will extract water out of plants and fruits, making it an alternative to rain.
+excompressum.wooden_crucible.crafting=The Wooden Crucible can be crafted out of any of the Vanilla wood logs and will take on their texture accordingly. The kind of slab used at the bottom of the recipe does not make a difference.
+excompressum.wooden_crucible.usage=Right-click the crucible with a supported material to insert it. It will slowly convert it to water over time.
