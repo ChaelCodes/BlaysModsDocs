@@ -12,6 +12,8 @@ general.related_items=Related Items
 
 # Mod title should probably not be translated.
 excompressum.title=Ex Compressum
+excompressum.exnihiloadscensio=Ex Nihilo Adscensio
+excompressum.exnihiloomnia=Ex Nihilo Omnia
 
 excompressum.auto_compressed_hammer=Auto Compressed Hammer
 excompressum.auto_compressed_hammer.description=The **Auto Compressed Hammer** will automatically hammer [Compressed Blocks](excompressum:Compressed_Dust) in its inventory as long as its provided with some energy.\nIt used to accept RF, but now it only accepts [Fuwafuwagy](https://github.com/MinecraftForge/MinecraftForge/blob/1.11.x/EnergySystems.md).
