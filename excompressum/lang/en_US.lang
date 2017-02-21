@@ -7,6 +7,7 @@ general.output_slots=Output Slots
 general.energy=Energy
 general.player_inventory=Player Inventory
 general.upgrades=Upgrades
+general.usage=Usage
 general.related_items=Related Items
 
 # Mod title should probably not be translated.
