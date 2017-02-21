@@ -1,0 +1,47 @@
+{
+  "parent": "excompressum/excompressum.json",
+  "icon": "excompressum:Auto_Compressor",
+  "title": "$excompressum.auto_compressor",
+  "description": "$excompressum.auto_compressor.description",
+  "recipe": [
+    {
+      "type": "crafting",
+      "matrix": [
+        "minecraft:Crafting_Table", "minecraft:Iron_Ingot", "minecraft:Crafting_Table",
+        "minecraft:Iron_Ingot", "minecraft:Block_of_Iron", "minecraft:Iron_Ingot",
+        "minecraft:Crafting_Table", "minecraft:Iron_Ingot", "minecraft:Crafting_Table"
+      ],
+      "result": "excompressum:Auto_Compressor"
+    }
+  ],
+  "info": {
+    "$general.crafting": {
+      "content": "$excompressum.auto_compressor.crafting"
+    },
+    "$general.interface": {
+      "type": "imagemap",
+      "source": "excompressum/auto_compressor_gui.png",
+      "areas": [
+        {
+            "tooltip": "$general.input_slots"
+            "bounds": [16, 16, 104, 140]
+        },
+        {
+            "tooltip": "$general.output_slots"
+            "bounds": [186, 16, 104, 140]
+        },
+        {
+            "tooltip": "$general.energy"
+            "bounds": [302, 14, 36, 143]
+        },
+        {
+            "tooltip": "$general.player_inventory"
+            "bounds": [16, 168, 320, 148]
+        }
+      ]
+    }
+  },
+  "related": [
+    "any:Siftable_Block"
+  ]
+}

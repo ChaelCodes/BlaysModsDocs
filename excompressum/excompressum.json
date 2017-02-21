@@ -1,4 +1,5 @@
 {
     "base_title": "$excompressum.title",
-    "menu_preset": "excompressum"
+    "menu_preset": "excompressum",
+    "lang": "excompressum/lang"
 }
