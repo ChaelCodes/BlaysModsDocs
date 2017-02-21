@@ -23,19 +23,19 @@
       "source": "excompressum/auto_compressor_gui.png",
       "areas": [
         {
-            "tooltip": "$general.input_slots"
+            "tooltip": "$general.input_slots",
             "bounds": [16, 16, 104, 140]
         },
         {
-            "tooltip": "$general.output_slots"
+            "tooltip": "$general.output_slots",
             "bounds": [186, 16, 104, 140]
         },
         {
-            "tooltip": "$general.energy"
+            "tooltip": "$general.energy",
             "bounds": [302, 14, 36, 143]
         },
         {
-            "tooltip": "$general.player_inventory"
+            "tooltip": "$general.player_inventory",
             "bounds": [16, 168, 320, 148]
         }
       ]
