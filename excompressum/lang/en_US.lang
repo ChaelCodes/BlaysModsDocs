@@ -7,7 +7,8 @@ general.output_slots=Output Slots
 general.energy=Energy
 general.player_inventory=Player Inventory
 general.upgrades=Upgrades
-general.related_items=Related Items
+# PHP is special and crashes with segmentation fault if you use a key called "general.related_items". I have no idea.
+general.relateditems=Related Items
 
 # Mod title should probably not be translated.
 excompressum.title=Ex Compressum
