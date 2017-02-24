@@ -32,4 +32,5 @@ Since Minecraft 1.10.2, it supports both [Ex Nihilo Omnia](https://minecraft.cur
 
 ## Mechanics
 * Compressed Mobs
+
 With Ex Compressum installed, mobs have a low chance of spawning as "Compressed Mobs", which will split into nine of their type upon death.
