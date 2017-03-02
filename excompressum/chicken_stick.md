@@ -7,7 +7,7 @@ The **Chicken Stick**.
 To craft a Chicken Stick.
 
 ## Usage
-<div class="chicken-stick-secret"><img src="excompressum/images/chicken.png" /></div>
+<div class="chicken-stick-secret"><img src="/mods/excompressum/images/chicken.png" /></div>
 
 ## Related Items
 ![Spawn Chicken](minecraft:spawn_egg:21)
