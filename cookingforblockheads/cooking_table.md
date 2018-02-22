@@ -5,7 +5,7 @@ The Cooking Table is the core of a multiblock kitchen. Right-clicking it will br
 
 In order for a kitchen to count as connected, blocks must be touching each other. The [Kitchen Floor](cookingforblockheads:kitchen_floor) can be used to connect blocks that are further apart.
 
-![cookingforblockheads:cooking_table](crafting://any:stone,any:stone,any:stone,minecraft:hardened_clay,cookingforblockheads:recipe_book:1,minecraft:hardened_clay,minecraft:hardened_clay,minecraft:hardened_clay,minecraft:hardened_clay)
+![cookingforblockheads:cooking_table](crafting://minecraft:stone,minecraft:stone,minecraft:stone,minecraft:hardened_clay,cookingforblockheads:recipe_book:2,minecraft:hardened_clay,minecraft:hardened_clay,minecraft:hardened_clay,minecraft:hardened_clay)
 
 ## Interface
 ![cookingforblockheads/images/recipe_book.png](imagemap://Recipe Display=14,34,172,158;Recipe Slots=204,42,104,140;Search Bar=196,10,141,20;Sorting Buttons=352,35,37,118;Player Inventory=16,204,320,148)
