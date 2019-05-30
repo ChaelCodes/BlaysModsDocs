@@ -5,7 +5,7 @@ The Spice Rack holds up to nine ingredients that will be made available to your 
 
 Check the [Cooking Table](cookingforblockheads:cooking_table) for more information on Multiblock Kitchens.
 
-![cookingforblockheads:milk_jar](crafting://null,null,null,null,any:wooden_slab,null,null,null,null)
+![cookingforblockheads:spice_rack](crafting://null,null,null,null,any:wooden_slab,null,null,null,null)
 
 ## Interface
 ![cookingforblockheads/images/spice_rack.png](imagemap://Storage Slots=14,34,320,32;Player Inventory=16,100,320,148)
