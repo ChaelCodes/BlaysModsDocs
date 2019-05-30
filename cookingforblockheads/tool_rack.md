@@ -5,7 +5,7 @@ The Tool Rack holds up to two tools that will be made available to your multiblo
 
 Check the [Cooking Table](cookingforblockheads:cooking_table) for more information on Multiblock Kitchens.
 
-![cookingforblockheads:milk_jar](crafting://null,null,null,any:wooden_slab,any:wooden_slab,any:wooden_slab,minecraft:iron_nugget,null,minecraft:iron_nugget)
+![cookingforblockheads:tool_rack](crafting://null,null,null,any:wooden_slab,any:wooden_slab,any:wooden_slab,minecraft:iron_nugget,null,minecraft:iron_nugget)
 
 ## Usage
 Right-click the tool rack with an item in your hand to put the item on the tool rack. Right-clicking the tool rack when it already has an item in that spot will retrieve or swap the item out.
